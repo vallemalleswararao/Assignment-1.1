@@ -1,0 +1,28 @@
+Data Types:
+
+1. What are the different data types in Python?
+2. Explain the difference between mutable and immutable data types in Python.
+3. How do you check the data type of a variable in Python?
+4. What is the difference between int and float data types?
+5. How do you convert a string to an integer in Python?
+
+Operators:
+6. Explain the difference between == and is operators in Python.
+7. What are the arithmetic operators in Python?
+8. How do you perform exponentiation in Python?
+9. Explain the use of comparison operators in Python.
+10. What is the purpose of the not operator in Python?
+
+Conditional Statements:
+11. What are the different types of conditional statements in Python?
+12. Explain the difference between if, elif, and else statements.
+13. How do you nest conditional statements in Python?
+14. What is the purpose of the pass statement in conditional statements?
+15. How do you use the ternary operator (conditional expression) in Python?
+
+Looping Statements:
+16. What are the different types of loops in Python?
+17. Explain the difference between while and for loops.
+18. How do you exit a loop prematurely using the break statement?
+19. What is the purpose of the continue statement in a loop?
+20. How do you iterate over the elements of a list using a for loop?
